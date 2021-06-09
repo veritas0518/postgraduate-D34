@@ -1,0 +1,2 @@
+# postgraduate-D34
+The days have become more and more difficult. I don't know whether I need to retake those courses with low GPA in the next semester. I'm going to choose courses soon. Yesterday, the wireless sensor teacher ignored the feelings of the students and put the results on the screen for you to see. I heard that the final exam is still very difficult. Next, I will upload some Java related code
